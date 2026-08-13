@@ -364,7 +364,7 @@ body {
 
 .foto-logo-pequeno {
   position: absolute;
-  left: 77px;
+  left: 210px;
   top: 40px;
   width: 160px;
   height: auto;
@@ -429,8 +429,8 @@ body {
 
 .foto-logo-rodape {
   position: absolute;
-  left: 494px;
-  top: 20px;
+  left: 482px;
+  top: -70px;
   width: 212px;
   height: auto;
   mix-blend-mode: lighten;
